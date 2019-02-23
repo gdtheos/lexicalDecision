@@ -6,9 +6,5 @@ to the package is available through vignette('brms_overview').
 Run theme_set(theme_default()) to use the default bayesplot theme.
 This is loo version 2.0.0.
 **NOTE: As of version 2.0.0 loo defaults to 1 core but we recommend using as many as possible. Use the 'cores' argument or set options(mc.cores = NUM_CORES) for an entire session. Visit mc-stan.org/loo/news for details on other changes.
-Error in file(file, "rt") : cannot open the connection
-Calls: read.csv -> read.table -> file
-In addition: Warning message:
-In file(file, "rt") :
-  cannot open file 'ELPMorphoParsed.csv': No such file or directory
+Error: unexpected end of input
 Execution halted

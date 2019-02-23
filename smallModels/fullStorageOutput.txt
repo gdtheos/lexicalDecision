@@ -1,25 +1,25 @@
 ----------------------------------------
-Begin PBS Prologue Sat Feb 23 13:16:17 EST 2019 1550945777
-Job ID:		8181804.gm-1r16-n04.guillimin.clumeq.ca
+Begin PBS Prologue Sat Feb 23 13:24:22 EST 2019 1550946262
+Job ID:		8181808.gm-1r16-n04.guillimin.clumeq.ca
 Username:	gdtheos
 Group:		jjh-730-01
 Nodes:		hw-3r03-n11
-End PBS Prologue Sat Feb 23 13:16:18 EST 2019 1550945778
+End PBS Prologue Sat Feb 23 13:24:23 EST 2019 1550946263
 ----------------------------------------
 ----------------------------------------
-Begin PBS Epilogue Sat Feb 23 13:16:23 EST 2019 1550945783
-Job ID:		8181804.gm-1r16-n04.guillimin.clumeq.ca
+Begin PBS Epilogue Sat Feb 23 13:24:31 EST 2019 1550946271
+Job ID:		8181808.gm-1r16-n04.guillimin.clumeq.ca
 Username:	gdtheos
 Group:		jjh-730-01
 Job Name:	elpFullStorage
-Session:	40566
+Session:	50315
 Limits:		neednodes=1:ppn=4,nodes=1:ppn=4,pmem=3700mb,walltime=12:00:00
-Resources:	cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:06
+Resources:	cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:09
 Queue:		serial-short
 Account:	jjh-730-aa
 Exit code:	1
 Nodes:	hw-3r03-n11
 Killing leftovers...
 
-End PBS Epilogue Sat Feb 23 13:16:23 EST 2019 1550945783
+End PBS Epilogue Sat Feb 23 13:24:32 EST 2019 1550946272
 ----------------------------------------
