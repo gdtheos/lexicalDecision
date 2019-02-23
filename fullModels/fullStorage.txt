@@ -1,0 +1,9 @@
+
+SAMPLING FOR MODEL '51cc94339dc05501364fa9aac2aa300d' NOW (CHAIN 1).
+Chain 1: 
+Chain 1: Gradient evaluation took 1.78778 seconds
+Chain 1: 1000 transitions using 10 leapfrog steps per transition would take 17877.8 seconds.
+Chain 1: Adjust your expectations accordingly!
+Chain 1: 
+Chain 1: 
+Chain 1: Iteration:   1 / 400 [  0%]  (Warmup)

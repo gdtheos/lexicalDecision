@@ -1,0 +1,10 @@
+Loading required package: Rcpp
+Loading required package: ggplot2
+Loading 'brms' package (version 2.7.0). Useful instructions
+can be found by typing help('brms'). A more detailed introduction
+to the package is available through vignette('brms_overview').
+Run theme_set(theme_default()) to use the default bayesplot theme.
+This is loo version 2.0.0.
+**NOTE: As of version 2.0.0 loo defaults to 1 core but we recommend using as many as possible. Use the 'cores' argument or set options(mc.cores = NUM_CORES) for an entire session. Visit mc-stan.org/loo/news for details on other changes.
+Compiling the C++ model
+Start sampling
